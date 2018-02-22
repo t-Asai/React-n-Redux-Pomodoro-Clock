@@ -8,7 +8,12 @@
     "bundle": "NODE_ENV=production ./node_modules/.bin/webpack -p --config webpack.config.js"
   },
   "keywords": [
-    "React", "Redux", "Webpack", "Babel", "JSX", "es2015"
+    "React",
+    "Redux",
+    "Webpack",
+    "Babel",
+    "JSX",
+    "es2015"
   ],
   "author": "CU7IOUS",
   "license": "GNU GPL v.3",
